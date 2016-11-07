@@ -1,0 +1,23 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "readme": "NativeScript Application",
+  "repository": "https://github.com/regar007/LearningNativeScript.git",
+  "nativescript": {
+    "id": "org.nativescript.LearningNativeScript",
+    "tns-android": {
+      "version": "2.3.0"
+    }
+  },
+  "dependencies": {
+    "tns-core-modules": "2.3.0",
+    "email-validator": "^1.0.7",
+    "nativescript-social-share": "^1.3.1"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.18.0",
+    "babel-types": "6.18.0",
+    "babylon": "6.13.1",
+    "lazy": "1.0.11"
+  }
+}
